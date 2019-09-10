@@ -32,3 +32,32 @@ h2 {
 	opacity: 20;
 	margin-left: 2.5in;
 }
+
+#paragraph1 {
+
+
+	color: #40c263;
+}
+
+#paragraph2 {
+
+	color: #2fa34f;
+}
+
+#paragraph3 {
+
+	color: #179139;
+}
+#side1 {
+	margin-left: -.5in;
+}
+
+#scene2 {
+
+	margin-left: -.5in;
+}
+
+#scene3 {
+
+	margin-left: -.5in;
+}
