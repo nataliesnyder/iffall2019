@@ -1,0 +1,109 @@
+body {
+
+	font-family: 'Crimson Text', serif;
+	font-size: 20px;
+	margin-left: 2.5in;
+	margin-right: 2in;
+	margin-top: 3in;
+	background-color: #ff998a;
+	font-family: "Crimson Text", serif;
+}
+h1 {
+
+	font-size: 2em;
+	line-height: 83%;
+}
+
+.crimson {
+
+	font-size: 8em;
+	color: crimson;
+	margin-left: 2.5in;
+	font-weight: bolder;
+}
+
+em {
+
+	font-size: 1.5em;
+	color: crimson;
+
+}
+
+div {
+	line-height: 80%;
+}
+
+
+
+.light {
+
+	font-weight: 100;
+	
+}
+
+.bold {
+
+	font-weight: bold;
+}
+
+.regular-style{
+
+	font-style: normal;
+}
+
+.italic {
+
+	font-style: italic;
+}
+
+.oblique {
+
+	font-style: oblique;
+}
+
+.wide {
+
+	letter-spacing: .5em;
+}
+
+.hamster {
+
+	letter-spacing: 2px;
+}
+
+.capitals {
+
+	text-transform: capitalize;
+}
+
+.upper {
+
+	text-transform: uppercase;
+}
+
+.lower {
+	text-transform: lowercase;
+}
+
+.over {
+	text-decoration: overline;
+}
+
+.through {
+
+	text-decoration: line-through;
+}
+
+
+.under {
+	text-decoration: underline;
+	text-decoration-style: dotted;
+	text-decoration-color: white;
+}
+
+.under2 {
+
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: white;
+}
