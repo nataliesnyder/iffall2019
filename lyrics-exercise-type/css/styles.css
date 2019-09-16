@@ -1,0 +1,92 @@
+body {
+
+	
+	background-image: url("danromano.png");
+	
+}
+h1 {
+	font-family: 'Faster One', cursive;
+	letter-spacing: .5em;
+
+	font-size: 10em;
+
+	background-color: yellow;
+}
+
+#danny {
+	opacity: 80%;
+	z-index: -1;
+}
+div { 
+	color: black;
+	font-size: 14pt;
+	font-family: 'Comfortaa', cursive;'Prompt', sans-serif;
+}
+	 }
+
+header {
+	opacity: .08;
+	font-size: 12em;
+	text-align: center;
+	position: fixed;
+	
+}
+
+
+
+h2 {
+	text-align: left;
+	color: white;
+	font-size: 25pt
+	
+}
+
+#paragraph1 {
+
+	margin-left: 1in;
+	}
+
+#paragraph2 {
+
+	margin-left: 2in;
+}
+
+#paragraph3 {
+
+	margin-left: 3in;
+}
+
+#paragraph4 {
+
+	margin-left: 4in;
+}
+
+#paragraph5 {
+
+	margin-left: 5in;
+}
+
+#paragraph6 {
+
+	margin-left: 6in;
+}
+
+
+
+footer {
+	font-family: sans-serif;
+	margin-top: 7.5in;
+	color: thistle;
+}
+
+em {
+
+	text-decoration: underline;
+	text-decoration-style: wavy;
+	text-decoration-color: red;
+}
+
+strong {
+	font-weight: 400;
+	text-shadow: 9pt 9pt;
+	color: lightcoral;
