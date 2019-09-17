@@ -1,24 +1,25 @@
 body {
 
-	font-family: 'Crimson Text', serif;
+	font-family: 'Crimson Pro', serif;
 	font-size: 20px;
 	margin-left: 2.5in;
-	margin-right: 2in;
+	margin-right: 3in;
 	margin-top: 3in;
 	background-color: #ff998a;
-	font-family: "Crimson Text", serif;
+	line-height: 2;
+	
 }
 h1 {
 
 	font-size: 2em;
-	line-height: 83%;
+	line-height: 100%;
 }
 
 .crimson {
 
 	font-size: 8em;
 	color: crimson;
-	margin-left: 2.5in;
+	margin-left: 2in;
 	font-weight: bolder;
 }
 
@@ -35,9 +36,10 @@ div {
 
 
 
-.light {
+.razzle {
 
-	font-weight: 100;
+	
+	font-weight: 200;
 	
 }
 
@@ -106,4 +108,10 @@ div {
 	text-decoration: underline;
 	text-decoration-style: wavy;
 	text-decoration-color: white;
+}
+
+footer {
+
+
+	font-size: 11pt;
 }
