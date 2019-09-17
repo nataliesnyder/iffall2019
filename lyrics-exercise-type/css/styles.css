@@ -1,6 +1,7 @@
 body {
 
-	
+	background-color: #2261c7;
+	color: #f2ae41;
 	background-image: url("danromano.png");
 	
 }
@@ -18,7 +19,7 @@ h1 {
 	z-index: -1;
 }
 div { 
-	color: black;
+	color: #f2ae41;
 	font-size: 14pt;
 	font-family: 'Comfortaa', cursive;'Prompt', sans-serif;
 }
@@ -35,9 +36,13 @@ header {
 
 
 h2 {
+	font-family: 'Comfortaa', cursive;'Prompt', sans-serif;
 	text-align: left;
 	color: white;
-	font-size: 25pt
+	font-size: 25pt;
+	letter-spacing: 1em;
+	text-transform: uppercase;
+	text-align: center;
 	
 }
 
@@ -88,5 +93,12 @@ em {
 
 strong {
 	font-weight: 400;
-	text-shadow: 9pt 9pt;
-	color: lightcoral;
+	text-shadow: 9pt 9pt #1fa159;
+	
+
+
+
+
+
+
+}
