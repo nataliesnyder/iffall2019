@@ -1,0 +1,57 @@
+body section:first-of-type aside {
+
+	float: right;
+}
+body section:nth-of-type(2) aside {
+
+	bottom: -150px;
+	right: 150px;
+	position: absolute;
+	/*background-color: red;*/
+}
+
+
+body section:nth-of-type(3) {
+
+	position: relative;
+}
+
+
+body section:nth-of-type(3) aside {
+
+background-color:green;
+position: fixed;
+bottom: 400px;
+right: 400px;
+width: ;
+/*top: 50px;*/
+
+/*position:fixed;*/
+/*align-content:right;*/
+
+
+}
+
+body section:nth-of-type(4) aside:nth-of-type(1){
+
+	background-color: red;
+	position: relative;
+	top: 200px;
+	left: -10px;
+}
+
+body section:nth-of-type(4) aside:nth-of-type(2){
+	background-color: black;
+	z-index: -1;
+
+}
+
+body section:nth-of-type(4) aside {
+
+	margin: auto;
+	top: 100px;
+}
+
+body section:nth-of-type(4) aside p {
+
+	z-index: -1;
