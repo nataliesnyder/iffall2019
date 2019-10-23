@@ -1,0 +1,18 @@
+h1 {
+
+	font-size: 20pt;
+}
+
+body {
+
+	line-height: 2;
+	margin: auto;
+	margin: 130px 60px 60px 130px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+h2 {
+
+	font-size: 40pt;
+	line-height: 1;
+}
