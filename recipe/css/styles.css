@@ -17,7 +17,7 @@ text-decoration: none;
 	color: #fbdcb1;
 	font-family: 'Anton', sans-serif;
 	text-transform: uppercase;
-	font-size: 50pt;
+	font-size: 60pt;
 	padding: 0;
 	margin: 0;
 }
@@ -27,27 +27,43 @@ h1 p {
 	box-sizing: border-box;
 	padding: 20px 20px 20px 20px;
 	text-align: center;
+	-webkit-text-stroke-width: .1px;
+	-webkit-text-stroke-color: #53525f;
 }
 #intro {
 
 	font-size: 17pt;
 	box-sizing: border-box;
-	padding: 0px 40px 40px 40px;
-	text-align: justify;
+	padding: 0px 40px 60px 40px;
+	/*text-align: justify;*/
+
 	
 		/*background-color: #f3e4ef: */
 }
 
+#rice {
+
+	margin: 0px;
+	padding: 0;
+}
+
+#indianish:hover {
+
+	color: black;
+}
+
+
 #first {
 box-sizing: border-box;
-	padding: 0px 40px 40px 40px;
+	padding: 20px 40px 20px 40px;
+	margin-bottom: 10px;
 
 }
 #ingredients {
 
 	/*font-size: 2em;*/
 	box-sizing: border-box;
-	padding: 40px 40px 40px 40px;
+	padding: 20px 40px 40px 40px;
 }
 
 #prep {
@@ -92,3 +108,21 @@ h2 {
 
 
 }
+
+#prep p {
+
+	padding-top: 2px;
+}
+
+h3 {
+padding: 0;
+margin: 0;
+	/*padding-bottom: 10px;*/
+}
+
+
+
+
+
+
+
