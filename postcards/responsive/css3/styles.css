@@ -1,0 +1,126 @@
+body {
+	
+	/*color: yellow;*/
+	margin: auto;
+	font-family: 'Buenard', serif;
+}
+
+#nothing {
+font-size: 2em;
+color: white;
+padding: 100px;
+
+}
+strong {
+
+	font-size: 16pt;
+}
+
+img {
+
+	
+	/*background-size: 120%;*/
+	position: fixed;
+        bottom: 0;
+        width: 100%;
+       
+        margin: auto;
+}
+
+#text p {
+
+	color: white;
+
+	font-size: 2em;
+	line-height: 1.5;
+	background-color: red;
+
+
+	width: 50%;
+
+	align-content: right;
+
+	box-sizing: border-box;
+
+	margin: auto;
+	margin-left: 50%;
+	vertical-align: middle;
+	padding: 35px;
+	/*margin-top: 10%;*/
+}
+
+#text {
+background-color: red;
+
+width: 100%;
+display: inline-block;
+position: absolute;
+
+}
+
+
+@media ( max-width: 650px ) {
+
+	img {
+
+		width: 900px;
+	
+        bottom: 0;
+
+        margin: auto;
+        display: inline-block;
+	} 
+
+	#text p {file:///Users/nataliesnyder/Desktop/iffall2019/publish/postcards/responsive/index.html
+margin-top: 10%;
+		font-size: 1.5em;
+		width: 260px;
+		margin: auto;
+		padding: 10px;
+		box-sizing: border-box;
+		padding-top: 80px;
+	
+	}
+
+
+
+
+	#text {
+background-color: red;
+
+height: 100%;
+display: inline-block;
+margin: auto;
+	
+}
+#nothing {
+
+	display: none;
+}
+strong {
+
+	font-size: 12pt;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
