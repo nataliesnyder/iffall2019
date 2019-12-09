@@ -1,11 +1,11 @@
 body {
 
-	/*color: blue;*/
+
 	line-height: 1.5;
 	font-size: 15pt;
 	margin: auto;
 	margin: 0;
-	/*padding: 20px 20px 20px 20px;*/
+	
 	display: inline-block;
 	box-sizing: border-box;
 	background-color: #fbdcb1;
@@ -35,10 +35,7 @@ h1 p {
 	font-size: 17pt;
 	box-sizing: border-box;
 	padding: 40px 40px 70px 40px;
-	/*text-align: justify;*/
-
 	
-		/*background-color: #f3e4ef: */
 }
 
 #rice {
@@ -62,7 +59,7 @@ box-sizing: border-box;
 }
 #ingredients {
 
-	/*font-size: 2em;*/
+
 	box-sizing: border-box;
 	padding: 20px 40px 40px 40px;
 }
@@ -120,7 +117,7 @@ h2 {
 h3 {
 padding: 0;
 margin: 0;
-	/*padding-bottom: 10px;*/
+
 }
 
 
