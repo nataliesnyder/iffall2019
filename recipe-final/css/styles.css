@@ -25,7 +25,7 @@ text-decoration: none;
 h1 p {
 
 	box-sizing: border-box;
-	padding: 20px 20px 20px 20px;
+	padding: 20px 20px 0px 20px;
 	text-align: center;
 	-webkit-text-stroke-width: .1px;
 	-webkit-text-stroke-color: #53525f;
@@ -34,7 +34,7 @@ h1 p {
 
 	font-size: 17pt;
 	box-sizing: border-box;
-	padding: 0px 40px 60px 40px;
+	padding: 40px 40px 70px 40px;
 	/*text-align: justify;*/
 
 	
@@ -45,6 +45,7 @@ h1 p {
 
 	margin: 0px;
 	padding: 0;
+	width: 100%;
 }
 
 #indianish:hover {
@@ -72,8 +73,10 @@ box-sizing: border-box;
 	padding: 40px 40px 40px 40px;
 }
 
-#prep p {
+p {
 
+	margin: 0px;
+	padding: 0px;
 
 }
 
@@ -119,6 +122,39 @@ padding: 0;
 margin: 0;
 	/*padding-bottom: 10px;*/
 }
+
+
+em {
+
+font-size: 8pt;
+color: gray;
+font-family: 'Overpass', sans-serif;
+text-decoration: none;
+	box-sizing: border-box;
+	padding: 0px 40px 60px 40px;
+
+}
+
+.kelley {
+
+	padding-top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
